@@ -1,0 +1,11 @@
+{
+    "hire_api": {
+        "true_url": "http://api.300mbdl.cn/%E6%8E%A5%E5%8F%A32/%E7%A7%9F%E5%8F%B7/%E7%A7%9F%E5%8F%B7%E5%A4%A7%E5%8E%85?%E9%A1%B5=1&%E9%A1%B5%E9%95%BF=100&%E5%87%BA%E7%A7%9F%E4%B8%AD=true",
+        "false_url": "http://api.300mbdl.cn/%E6%8E%A5%E5%8F%A32/%E7%A7%9F%E5%8F%B7/%E7%A7%9F%E5%8F%B7%E5%A4%A7%E5%8E%85?%E9%A1%B5=1&%E9%A1%B5%E9%95%BF=100&%E5%87%BA%E7%A7%9F%E4%B8%AD=false"
+    },
+    "hero_api":{
+        "searchNormal":"https://300report.jumpw.com/api/battle/searchNormal?type=h5",
+        "searchMatchs":"https://300report.jumpw.com/api/battle/searchMatchs?type=h5",
+        "searchMatchinfo":"https://300report.jumpw.com/api/battle/searchMatchinfo?type=h5"
+    }
+}
